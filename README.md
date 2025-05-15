@@ -2,7 +2,7 @@
 
 A real-time system monitoring tool for Linux/Unix systems that provides a comprehensive view of your system's resources in the terminal.
 
-![System Monitor Screenshot](screenshot.png)
+![System Monitor Screenshot](systemMonitor.png)
 
 ## Features
 
