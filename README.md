@@ -50,7 +50,7 @@ A real-time system monitoring tool for Linux/Unix systems that provides a compre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/systemMonitor.git
+git clone https://github.com/Seanc26/systemMonitor.git
 cd systemMonitor
 ```
 
